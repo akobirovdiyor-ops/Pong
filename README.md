@@ -1,1 +1,1 @@
-# Pong
+# Beaver Arena
